@@ -1,0 +1,5 @@
+<map id="DrawCommand" name="DrawCommand">
+<area shape="rect" id="node1" title="Draw a continuous line." alt="" coords="31,79,145,104"/>
+<area shape="rect" id="node3" href="$class_rainbow_draw_command.html" title="draw a continuous line." alt="" coords="5,152,171,177"/>
+<area shape="rect" id="node2" href="$class_command.html" title="abstract command class; children are instantiated by InputHandler and managed by App." alt="" coords="47,5,130,31"/>
+</map>

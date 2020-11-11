@@ -1,0 +1,5 @@
+<map id="include/InputHandler.hpp" name="include/InputHandler.hpp">
+<area shape="rect" id="node1" title="Given events in the program, delegates them to commands." alt="" coords="65,5,234,31"/>
+<area shape="rect" id="node2" href="$_input_handler_8cpp.html" title="Implementation of InputHandler.hpp." alt="" coords="5,79,149,104"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title=" " alt="" coords="173,79,270,104"/>
+</map>

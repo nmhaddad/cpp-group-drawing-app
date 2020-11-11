@@ -1,0 +1,11 @@
+<map id="Command" name="Command">
+<area shape="rect" id="node1" title="abstract command class; children are instantiated by InputHandler and managed by App." alt="" coords="435,5,518,31"/>
+<area shape="rect" id="node2" href="$class_chat_command.html" title="Set the current message." alt="" coords="5,79,116,104"/>
+<area shape="rect" id="node3" href="$class_close_command.html" title="Close the program." alt="" coords="140,79,257,104"/>
+<area shape="rect" id="node4" href="$class_color_command.html" title="Set the current color." alt="" coords="281,79,396,104"/>
+<area shape="rect" id="node5" href="$class_draw_command.html" title="Draw a continuous line." alt="" coords="420,79,534,104"/>
+<area shape="rect" id="node7" href="$class_fill_command.html" title="Fill the screen with one color." alt="" coords="558,79,657,104"/>
+<area shape="rect" id="node8" href="$class_redo_command.html" title="Execute the last command." alt="" coords="681,79,796,104"/>
+<area shape="rect" id="node9" href="$class_undo_command.html" title="Un&#45;execute the last command." alt="" coords="819,79,934,104"/>
+<area shape="rect" id="node6" href="$class_rainbow_draw_command.html" title="draw a continuous line." alt="" coords="394,152,560,177"/>
+</map>

@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['r_1208',['r',['../structnk__color.html#a8c27a9094c4cc8a24adfd111f1c38812',1,'nk_color::r()'],['../structnk__colorf.html#a19908af2a694aa5dd2f0d045b5bc69c1',1,'nk_colorf::r()'],['../structnk__command__arc.html#a46c4562ff5abdf1c75bc95ba86f9f9ba',1,'nk_command_arc::r()'],['../structnk__command__arc__filled.html#a31784cc181f33422ea8b09bc01463937',1,'nk_command_arc_filled::r()']]],
+  ['rainbow_1209',['RAINBOW',['../class_input_handler.html#aa724b2b6302306f923a395670124bb60ab8982cdf26439902f5b2e99a2a1e2157',1,'InputHandler']]],
+  ['rainbowdraw_1210',['RAINBOWDRAW',['../_command_8hpp.html#a8a937d815139bc1a41a10c75b40bf6cbace16922fc4b7a69739e20d53606a70a2',1,'Command.hpp']]],
+  ['rainbowdrawcommand_1211',['RainbowDrawCommand',['../class_rainbow_draw_command.html',1,'RainbowDrawCommand'],['../class_rainbow_draw_command.html#a62ddff36693650b3dff1fda00e8e7c70',1,'RainbowDrawCommand::RainbowDrawCommand(App *app)'],['../class_rainbow_draw_command.html#a9e1eb106024784d411d926174168f39c',1,'RainbowDrawCommand::RainbowDrawCommand(App *app, std::string desc)']]],
+  ['rainbowdrawcommand_2ecpp_1212',['RainbowDrawCommand.cpp',['../_rainbow_draw_command_8cpp.html',1,'']]],
+  ['rainbowdrawcommand_2ehpp_1213',['RainbowDrawCommand.hpp',['../_rainbow_draw_command_8hpp.html',1,'']]],
+  ['rainbowdrawcommand_5fcpp_1214',['RAINBOWDRAWCOMMAND_CPP',['../_rainbow_draw_command_8cpp.html#a63c9ec81acd3ed683bd38d53a245add4',1,'RainbowDrawCommand.cpp']]],
+  ['range_1215',['range',['../structnk__chart__slot.html#a60431f77dd3aff82aba2b751034a8638',1,'nk_chart_slot']]],
+  ['ratio_1216',['ratio',['../structnk__row__layout.html#ade0fedd4bed112aee70a65ab4adcc584',1,'nk_row_layout']]],
+  ['recieve_1217',['recieve',['../class_u_d_p_tool.html#a1778df16bd2f5e8fb56a2e64b71a458a',1,'UDPTool::recieve()'],['../class_u_d_p_tool.html#a6d6bf9e5e373e603a12c442b94d6760c',1,'UDPTool::recieve(unsigned int &amp;viaPort)']]],
+  ['red_1218',['RED',['../class_input_handler.html#aa724b2b6302306f923a395670124bb60a5513f06a87efdfa92e310731063502a7',1,'InputHandler::RED()'],['../_rainbow_draw_command_8hpp.html#aa94fd4794531adf9d34268df7d7087bfaf80f9a890089d211842d59625e561f88',1,'RED():&#160;RainbowDrawCommand.hpp']]],
+  ['redo_1219',['REDO',['../_command_8hpp.html#a8a937d815139bc1a41a10c75b40bf6cbad20f1b79e9cfc073db19741638050449',1,'Command.hpp']]],
+  ['redo_5fchar_5fpoint_1220',['redo_char_point',['../structnk__text__undo__state.html#ad1067474fa6efe12ad27a6b765b15c44',1,'nk_text_undo_state']]],
+  ['redo_5fpoint_1221',['redo_point',['../structnk__text__undo__state.html#ab5cd02ca0246a81627790e3eb20773e1',1,'nk_text_undo_state']]],
+  ['redoable_1222',['redoAble',['../class_command.html#a848ba1c645b2468099053a61250f98d3',1,'Command']]],
+  ['redocommand_1223',['RedoCommand',['../class_redo_command.html',1,'RedoCommand'],['../class_redo_command.html#a9722fa2e0fdbe7b36f7ed05d51254949',1,'RedoCommand::RedoCommand()']]],
+  ['redocommand_2ecpp_1224',['RedoCommand.cpp',['../_redo_command_8cpp.html',1,'']]],
+  ['redocommand_2ehpp_1225',['RedoCommand.hpp',['../_redo_command_8hpp.html',1,'']]],
+  ['redocommand_5fcpp_1226',['REDOCOMMAND_CPP',['../_redo_command_8cpp.html#ad2f693671ee31162265a42ae03d97858',1,'RedoCommand.cpp']]],
+  ['region_1227',['region',['../structnk__image.html#a0558f88dc25def97650d525d65429674',1,'nk_image']]],
+  ['right_1228',['right',['../structnk__command__rect__multi__color.html#a991243abaf14d0bc794e45cdf2148115',1,'nk_command_rect_multi_color']]],
+  ['rounding_1229',['rounding',['../structnk__command__rect.html#a577dba663ae1e3f6c91b9cb9a515f0aa',1,'nk_command_rect::rounding()'],['../structnk__command__rect__filled.html#aeeb368a566f41a7e7251f0d42beca769',1,'nk_command_rect_filled::rounding()'],['../structnk__style__button.html#ae1d141c0c8d52167d779fb4173b2da6b',1,'nk_style_button::rounding()'],['../structnk__style__selectable.html#a2c0def63204e22489a0b5020b10baf57',1,'nk_style_selectable::rounding()'],['../structnk__style__slider.html#a950d2cbcc0c1b9dadf2a2c47b00fef4a',1,'nk_style_slider::rounding()'],['../structnk__style__progress.html#a0dc22b2561fd10a3976c11bf7bab43c2',1,'nk_style_progress::rounding()'],['../structnk__style__scrollbar.html#a654d88e47b733ddddac7f2cd555d06e1',1,'nk_style_scrollbar::rounding()'],['../structnk__style__edit.html#a8ece09a4dd8ad3751b4f8f018b7d031e',1,'nk_style_edit::rounding()'],['../structnk__style__property.html#a8fa5d9ee8755ae85850fa92177aaf10c',1,'nk_style_property::rounding()'],['../structnk__style__chart.html#a178316102e8723bef6ba2c7e6c8ba0ed',1,'nk_style_chart::rounding()'],['../structnk__style__combo.html#ac12f845441d878beaa895eb453e69c89',1,'nk_style_combo::rounding()'],['../structnk__style__tab.html#abf1cfda005f683974f5ab213c5513ea3',1,'nk_style_tab::rounding()'],['../structnk__style__window.html#a9be123b10d86541aa71dcb88272df015',1,'nk_style_window::rounding()']]],
+  ['rounding_5fcursor_1230',['rounding_cursor',['../structnk__style__scrollbar.html#a85338ec19a8d87922f6f56244eccc2d2',1,'nk_style_scrollbar']]],
+  ['row_1231',['row',['../structnk__panel.html#a9687b3e8837edcf72a16332b80e6e42e',1,'nk_panel']]],
+  ['row_5fpadding_1232',['row_padding',['../structnk__style__edit.html#ad3e38663299850e384418c2434dc9345',1,'nk_style_edit']]]
+];

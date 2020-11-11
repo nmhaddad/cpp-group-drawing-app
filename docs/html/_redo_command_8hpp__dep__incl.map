@@ -1,0 +1,7 @@
+<map id="include/RedoCommand.hpp" name="include/RedoCommand.hpp">
+<area shape="rect" id="node1" title="User command to redo the last command." alt="" coords="20,5,206,31"/>
+<area shape="rect" id="node2" href="$_input_handler_8cpp.html" title="Implementation of InputHandler.hpp." alt="" coords="5,152,149,177"/>
+<area shape="rect" id="node3" href="$_redo_command_8cpp.html" title="Implementation of RedoCommand.cpp." alt="" coords="32,79,194,104"/>
+<area shape="rect" id="node4" href="$_input_handler_8hpp.html" title="Given events in the program, delegates them to commands." alt="" coords="218,79,387,104"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="254,152,351,177"/>
+</map>

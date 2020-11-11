@@ -1,0 +1,5 @@
+<map id="UndoCommand" name="UndoCommand">
+<area shape="rect" id="node1" title="Un&#45;execute the last command." alt="" coords="5,167,120,192"/>
+<area shape="rect" id="node2" href="$class_command.html" title="abstract command class; children are instantiated by InputHandler and managed by App." alt="" coords="21,92,104,117"/>
+<area shape="rect" id="node3" href="$class_app.html" title="Our Application called &#39;App&#39;." alt="" coords="40,5,85,31"/>
+</map>

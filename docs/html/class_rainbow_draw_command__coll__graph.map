@@ -1,0 +1,6 @@
+<map id="RainbowDrawCommand" name="RainbowDrawCommand">
+<area shape="rect" id="node1" title="draw a continuous line." alt="" coords="5,241,171,267"/>
+<area shape="rect" id="node2" href="$class_draw_command.html" title="Draw a continuous line." alt="" coords="31,167,145,192"/>
+<area shape="rect" id="node3" href="$class_command.html" title="abstract command class; children are instantiated by InputHandler and managed by App." alt="" coords="47,92,130,117"/>
+<area shape="rect" id="node4" href="$class_app.html" title="Our Application called &#39;App&#39;." alt="" coords="66,5,111,31"/>
+</map>

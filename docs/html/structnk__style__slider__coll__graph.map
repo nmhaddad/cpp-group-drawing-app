@@ -1,0 +1,10 @@
+<map id="nk_style_slider" name="nk_style_slider">
+<area shape="rect" id="node1" title=" " alt="" coords="281,628,391,653"/>
+<area shape="rect" id="node2" href="$structnk__style__item.html" title=" " alt="" coords="22,339,125,365"/>
+<area shape="rect" id="node7" href="$structnk__style__button.html" title=" " alt="" coords="173,501,288,526"/>
+<area shape="rect" id="node3" href="$unionnk__style__item__data.html" title=" " alt="" coords="5,179,142,204"/>
+<area shape="rect" id="node4" href="$structnk__color.html" title=" " alt="" coords="144,92,216,117"/>
+<area shape="rect" id="node5" href="$structnk__image.html" title=" " alt="" coords="30,92,109,117"/>
+<area shape="rect" id="node6" href="$unionnk__handle.html" title=" " alt="" coords="257,5,340,31"/>
+<area shape="rect" id="node8" href="$structnk__vec2.html" title=" " alt="" coords="269,339,340,365"/>
+</map>

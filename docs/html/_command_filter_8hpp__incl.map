@@ -1,0 +1,14 @@
+<map id="include/CommandFilter.hpp" name="include/CommandFilter.hpp">
+<area shape="rect" id="node1" title="Handles filtering commands to messages." alt="" coords="436,5,620,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="246,152,386,177"/>
+<area shape="rect" id="node3" title=" " alt="" coords="23,79,204,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="228,79,415,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="439,79,617,104"/>
+<area shape="rect" id="node6" title=" " alt="" coords="642,79,700,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="725,79,777,104"/>
+<area shape="rect" id="node8" href="$_command_8hpp.html" title="Represents an actionable command by the user." alt="" coords="800,79,909,104"/>
+<area shape="rect" id="node9" title=" " alt="" coords="693,152,747,177"/>
+<area shape="rect" id="node10" title=" " alt="" coords="771,152,843,177"/>
+<area shape="rect" id="node11" title=" " alt="" coords="867,152,936,177"/>
+<area shape="rect" id="node12" title=" " alt="" coords="959,152,1017,177"/>
+</map>

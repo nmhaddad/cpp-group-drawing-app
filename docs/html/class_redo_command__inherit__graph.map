@@ -1,0 +1,4 @@
+<map id="RedoCommand" name="RedoCommand">
+<area shape="rect" id="node1" title="Execute the last command." alt="" coords="5,79,120,104"/>
+<area shape="rect" id="node2" href="$class_command.html" title="abstract command class; children are instantiated by InputHandler and managed by App." alt="" coords="21,5,104,31"/>
+</map>

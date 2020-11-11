@@ -1,0 +1,4 @@
+<map id="Command" name="Command">
+<area shape="rect" id="node1" title="abstract command class; children are instantiated by InputHandler and managed by App." alt="" coords="5,92,88,117"/>
+<area shape="rect" id="node2" href="$class_app.html" title="Our Application called &#39;App&#39;." alt="" coords="24,5,69,31"/>
+</map>

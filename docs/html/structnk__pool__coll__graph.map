@@ -1,0 +1,27 @@
+<map id="nk_pool" name="nk_pool">
+<area shape="rect" id="node1" title=" " alt="" coords="769,856,837,881"/>
+<area shape="rect" id="node2" href="$structnk__allocator.html" title=" " alt="" coords="900,119,993,144"/>
+<area shape="rect" id="node10" href="$structnk__buffer.html" title=" " alt="" coords="754,219,830,244"/>
+<area shape="rect" id="node3" href="$unionnk__handle.html" title=" " alt="" coords="579,5,661,31"/>
+<area shape="rect" id="node8" href="$structnk__command__buffer.html" title=" " alt="" coords="654,306,797,331"/>
+<area shape="rect" id="node4" href="$structnk__page.html" title=" " alt="" coords="766,769,839,795"/>
+<area shape="rect" id="node5" href="$structnk__page__element.html" title=" " alt="" coords="636,682,764,707"/>
+<area shape="rect" id="node6" href="$unionnk__page__data.html" title=" " alt="" coords="428,595,534,620"/>
+<area shape="rect" id="node7" href="$structnk__window.html" title=" " alt="" coords="307,501,394,526"/>
+<area shape="rect" id="node24" href="$structnk__popup__state.html" title=" " alt="" coords="69,595,185,620"/>
+<area shape="rect" id="node15" href="$structnk__panel.html" title=" " alt="" coords="420,406,495,431"/>
+<area shape="rect" id="node9" href="$structnk__rect.html" title=" " alt="" coords="418,219,483,244"/>
+<area shape="rect" id="node16" href="$structnk__row__layout.html" title=" " alt="" coords="522,306,630,331"/>
+<area shape="rect" id="node11" href="$structnk__buffer__marker.html" title=" " alt="" coords="636,119,761,144"/>
+<area shape="rect" id="node12" href="$structnk__memory.html" title=" " alt="" coords="785,119,876,144"/>
+<area shape="rect" id="node13" href="$structnk__scroll.html" title=" " alt="" coords="70,219,144,244"/>
+<area shape="rect" id="node17" href="$structnk__menu__state.html" title=" " alt="" coords="144,306,256,331"/>
+<area shape="rect" id="node23" href="$structnk__edit__state.html" title=" " alt="" coords="119,356,220,381"/>
+<area shape="rect" id="node14" href="$structnk__property__state.html" title=" " alt="" coords="669,406,797,431"/>
+<area shape="rect" id="node18" href="$structnk__chart.html" title=" " alt="" coords="280,306,352,331"/>
+<area shape="rect" id="node19" href="$structnk__chart__slot.html" title=" " alt="" coords="266,219,366,244"/>
+<area shape="rect" id="node20" href="$structnk__color.html" title=" " alt="" coords="328,119,400,144"/>
+<area shape="rect" id="node21" href="$structnk__vec2.html" title=" " alt="" coords="233,119,303,144"/>
+<area shape="rect" id="node22" href="$structnk__table.html" title=" " alt="" coords="96,406,168,431"/>
+<area shape="rect" id="node25" href="$structnk__popup__buffer.html" title=" " alt="" coords="42,501,163,526"/>
+</map>

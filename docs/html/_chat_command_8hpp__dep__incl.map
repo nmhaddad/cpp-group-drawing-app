@@ -1,0 +1,7 @@
+<map id="include/ChatCommand.hpp" name="include/ChatCommand.hpp">
+<area shape="rect" id="node1" title="User command to send a message to all other clients." alt="" coords="109,5,292,31"/>
+<area shape="rect" id="node2" href="$_chat_command_8cpp.html" title="Implementation of ChatCommand.hpp." alt="" coords="5,79,163,104"/>
+<area shape="rect" id="node3" href="$_input_handler_8cpp.html" title="Implementation of InputHandler.hpp." alt="" coords="128,152,272,177"/>
+<area shape="rect" id="node4" href="$_input_handler_8hpp.html" title="Given events in the program, delegates them to commands." alt="" coords="237,79,406,104"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="296,152,393,177"/>
+</map>

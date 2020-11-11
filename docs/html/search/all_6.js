@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['g_163',['g',['../structnk__color.html#a5f9b6e27eec7cc99ab12fa52a31ca6d1',1,'nk_color::g()'],['../structnk__colorf.html#a41ff42d9dce5f1812132b305cf3395fb',1,'nk_colorf::g()']]],
+  ['generic_164',['GENERIC',['../_command_8hpp.html#a8a937d815139bc1a41a10c75b40bf6cba9e022e6380da28dd73210ed34b137c36',1,'Command.hpp']]],
+  ['get_5fm_5fcommanddescription_165',['get_m_commandDescription',['../class_command.html#aec0e98c5305cdd3c24d7c3322ee081e2',1,'Command']]],
+  ['getactivecommands_166',['getActiveCommands',['../class_app.html#a8cf73161bd1cdfe79da50f59058c2f57',1,'App']]],
+  ['getclient_167',['getClient',['../class_u_d_p_tool.html#a040d980c5a69b2b9b63fc637195c57f0',1,'UDPTool::getClient()'],['../class_u_d_p_tool.html#a3decdd242068b35e458c34dfcad6c604',1,'UDPTool::getClient(std::string serverIp, std::string serverPort, std::string ownPort)']]],
+  ['getcompletedcommands_168',['getCompletedCommands',['../class_app.html#a1d5b2b7eaeea123b3c0f1473baa2cff1',1,'App']]],
+  ['getdrawable_169',['getDrawable',['../class_command.html#a0f380863053d381567473c4783677a71',1,'Command']]],
+  ['getfuturecommands_170',['getFutureCommands',['../class_app.html#ae5f1ca745cc79a2740c86e9b0fdeee53',1,'App']]],
+  ['getimage_171',['GetImage',['../class_app.html#a8c4f9862cd7b399c098a8b6d8d35aec8',1,'App']]],
+  ['getpastcommands_172',['getPastCommands',['../class_app.html#ad8e1a970349539c0fbcc14b41ecdf616',1,'App']]],
+  ['getserver_173',['getServer',['../class_u_d_p_tool.html#ae98efcc8474bd2ff3febdc1d147208b1',1,'UDPTool::getServer()'],['../class_u_d_p_tool.html#afeaac755a5667ea70cd15680cccdf086',1,'UDPTool::getServer(std::string ownPort)']]],
+  ['getshadow_174',['getShadow',['../class_rainbow_draw_command.html#a47e5ab5db3163d8612b44a016098c708',1,'RainbowDrawCommand']]],
+  ['getsprite_175',['GetSprite',['../class_app.html#aa4520f40b5e0ac4a5f5e7b418a69c2c2',1,'App']]],
+  ['gettexture_176',['GetTexture',['../class_app.html#a5033d1cdfa513977883de011267c7061',1,'App']]],
+  ['getuserpictures_177',['getUserPictures',['../class_app.html#a2ef8b3adcc4fbb63ed1d07d7260eefb4',1,'App']]],
+  ['getwindow_178',['GetWindow',['../class_app.html#a0e0c2c8ac40a9f58405608388169d69a',1,'App']]],
+  ['global_5falpha_179',['global_alpha',['../structnk__convert__config.html#ad344c555b0c1ce0a07dded48860ceb00',1,'nk_convert_config']]],
+  ['grab_180',['grab',['../structnk__mouse.html#a93b114f1d129ce336d0d237980337ac9',1,'nk_mouse']]],
+  ['grabbed_181',['grabbed',['../structnk__mouse.html#a498f60d6bf88ca50aacbddcb2a2032ad',1,'nk_mouse']]],
+  ['green_182',['GREEN',['../class_input_handler.html#aa724b2b6302306f923a395670124bb60afe5764523924040d95654632549746d0',1,'InputHandler::GREEN()'],['../_rainbow_draw_command_8hpp.html#aa94fd4794531adf9d34268df7d7087bfaa60bd322f93178d68184e30e162571ca',1,'GREEN():&#160;RainbowDrawCommand.hpp']]],
+  ['group_5fborder_183',['group_border',['../structnk__style__window.html#a01f2264c6f00fbfb81418c14bcccdb84',1,'nk_style_window']]],
+  ['group_5fborder_5fcolor_184',['group_border_color',['../structnk__style__window.html#a3f27932c225305d78887c18aeb788c37',1,'nk_style_window']]],
+  ['group_5fpadding_185',['group_padding',['../structnk__style__window.html#a86d3a9f2f90380097f15b5abf09b0254',1,'nk_style_window']]],
+  ['grow_5ffactor_186',['grow_factor',['../structnk__buffer.html#ab4ec59165f6aa6e9358bced8070cc84e',1,'nk_buffer']]],
+  ['gui_5fwindow_187',['gui_window',['../main_8cpp.html#afc0aa1060dc35c865bfa345edef0cf37',1,'main.cpp']]]
+];
